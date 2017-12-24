@@ -1,4 +1,4 @@
-# CMD - Command Cheat Sheat ✅
+# CMD - Command Cheat Sheet ✅
 
 Windows Command Prompt is an often ignored aspect of the modern Windows OSes. The command prompt, also known as cmd.exe or cmd is a command line interpreter available since the NT line of Windows OSes. While the majority reasons for which the command prompt was used for can now be done through a graphical interface, this application has remained with Windows and is still used by many. Although many of us might not have used them, the fact that they still exist in modern day Windows is reason enough for us to be familiar with it.
 
