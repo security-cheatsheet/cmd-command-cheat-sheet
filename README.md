@@ -290,6 +290,10 @@ Wsmanhttpconfig |Used to manage aspects of the Windows Remote Management (WinRM)
 Xcopy | Used to copy one or more files or directory trees from one location to another. The xcopy command is generally considered a more “powerful” version of the copy command though the robocopy command trumps even xcopy.
 Xwizard | This command, short for Extensible Wizard, is used to register data in Windows, often from a preconfigured XML file.
 
+#### References :
+
+- https://officeteam.tech/downloads/lista-de-comandos-cmd.txt
+
 ### Contact :
 
 ##### Mail : ismailtasdelen@protonmail.com
